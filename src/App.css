@@ -1,3 +1,16 @@
 .App {
   text-align: center;
 }
+
+#status {
+  border: 1px solid lightblue;
+  background-color: lightcyan;
+  height: 100px;
+  box-shadow: 1px  5px lightgray;
+}
+
+.currentWeatherButton {
+  margin: 5px;
+  background-color: lightcyan;
+  box-shadow: 1px  5px lightgray;
+}
